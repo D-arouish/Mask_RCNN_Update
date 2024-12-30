@@ -159,9 +159,9 @@ Additional hyperparameters, such as batch size and detection confidence, were tu
 The trained model was tested on unseen images in the `test_images` directory. It produced accurate predictions, displaying clear bounding boxes and mask overlays for detected hats.
 
 #### Test Images
-![Test Sample 1](docs/images/test/1.png)
-![Test Sample 2](docs/images/test/2.png)
-![Test Sample 2](docs/images/test/3.png)
+![Test Sample 1](docs/images/1.png)
+![Test Sample 2](docs/images/2.png)
+![Test Sample 2](docs/images/3.png)
 
 ### Example Console Output
 ```python
